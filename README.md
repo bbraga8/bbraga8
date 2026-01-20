@@ -38,7 +38,7 @@ SQL (basic)	Commitment
 Business Intelligence	Multiculturalism
 Microsoft 365 Support	Problem Solving
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbraga8&show_icons=true&theme=radical)
 
 📍 I share my professional journey in QA and technology on LinkedIn.
 Come be part of my network ⬇️
