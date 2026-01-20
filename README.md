@@ -24,23 +24,21 @@ Quality standards and process improvement
 
 User experience and usability testing
 
-🔹 I'm passionate about quality, continuous learning, problem-solving, and improving digital products through structured testing 🚀
+🔹 I'm passionate about quality, continuous learning, problem-solving, and improving digital products through structured testing 
 
-🛠️ Hard Skills | 💡 Soft Skills
-Hard Skills	Soft Skills
-Software QA	Communication
-Manual Testing	Self-taught
-Test Case Design	Resilience
-Bug Reporting	Assertiveness
-QA Fundamentals	Leadership
-Data Analysis	Creativity
-SQL (basic)	Commitment
-Business Intelligence	Multiculturalism
-Microsoft 365 Support	Problem Solving
+### 🛠️ Hard Skills | 💡 Soft Skills  
 
-https://img.shields.io/badge/LinkedIn-brisabraga?style=for-the-badge&logo=linkedin&logoColor=white
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbraga8&show_icons=true&theme=radical)
+| Hard Skills        | Soft Skills        |
+|-------------------|--------------------|
+| Software QA       | Communication      |
+| Manual Testing    | Self-taught        |
+| Test Case Design  | Resilience         |
+| Bug Reporting     | Assertiveness      |
+| QA Fundamentals   | Leadership         |
+| Data Analysis     | Creativity         |
+| SQL (basic)       | Commitment         |
+| Microsoft 365     | Multiculturalism   |
+| Jira              | Problem Solving    |
 
 📍 I share my professional journey in QA and technology on LinkedIn.
 Come be part of my network ⬇️
