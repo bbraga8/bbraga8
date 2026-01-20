@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, my name is Brisa Braga
 
-<!--
-**bbraga8/bbraga8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 I'm a Software Quality Analyst with a strong background in IT support and data analysis
 
-Here are some ideas to get you started:
+🔹 I have over 10 years of experience in customer service and sales, which strengthened my attention to detail, communication skills, and user-focused mindset 👩🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Completed my studies in Software QA at TripleTen 🧪
+
+🔹 Master's degree background in Business Intelligence and Big Data 📊
+
+🔹 Graduated in International Relations 🎓
+
+🔹 Experienced in software testing, test documentation, and quality processes, with a strong focus on delivering reliable and user-centered products
+
+🔹 Interested in growing as a Quality Analyst, focusing on:
+
+Manual software testing
+
+Test case design and execution
+
+Bug reporting and tracking
+
+Quality standards and process improvement
+
+User experience and usability testing
+
+🔹 I'm passionate about quality, continuous learning, problem-solving, and improving digital products through structured testing 🚀
+
+🛠️ Hard Skills | 💡 Soft Skills
+Hard Skills	Soft Skills
+Software QA	Communication
+Manual Testing	Self-taught
+Test Case Design	Resilience
+Bug Reporting	Assertiveness
+QA Fundamentals	Leadership
+Data Analysis	Creativity
+SQL (basic)	Commitment
+Business Intelligence	Multiculturalism
+Microsoft 365 Support	Problem Solving
+
+📍 I share my professional journey in QA and technology on LinkedIn.
+Come be part of my network ⬇️
+
+🔗 LinkedIn: https://www.linkedin.com/in/[SEU-LINK-AQUI](https://www.linkedin.com/in/brisabraga/)
