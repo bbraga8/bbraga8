@@ -43,4 +43,4 @@ User experience and usability testing
 📍 I share my professional journey in QA and technology on LinkedIn.
 Come be part of my network ⬇️
 
-🔗 LinkedIn: https://www.linkedin.com/in/[SEU-LINK-AQUI](https://www.linkedin.com/in/brisabraga/)
+🔗 LinkedIn: https://www.linkedin.com/in/(https://www.linkedin.com/in/brisabraga/)
