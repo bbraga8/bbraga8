@@ -1,32 +1,20 @@
-👋 Hi, my name is Brisa Braga
+👋 Hi, I'm Brisa Braga
 
-🔹 I'm a Software Quality Analyst with a strong background in IT support and data analysis
+Business & Quality Analyst in transition, with a background in IT support, data analysis, and customer operations.
 
-🔹 I have over 10 years of experience in customer service and sales, which strengthened my attention to detail, communication skills, and user-focused mindset 👩🏻‍💻
+I combine 10+ years of customer-facing experience with technical skills in QA, process analysis, and data-driven decision-making.
 
-🔹 Completed my studies in Software QA at TripleTen 🧪
+🎓 Background in Business Intelligence & International Relations  
+🧪 Trained in Software QA (TripleTen)
 
-🔹 Master's degree background in Business Intelligence and Big Data 📊
+Currently focused on:
+- QA & testing practices  
+- Process and risk analysis  
+- Data-driven improvement  
 
-🔹 Graduated in International Relations 🎓
+Interested in building reliable systems and reducing uncertainty through data.
 
-🔹 Experienced in software testing, test documentation, and quality processes, with a strong focus on delivering reliable and user-centered products
-
-🔹 Interested in growing as a Quality Analyst, focusing on:
-
-Manual software testing
-
-Test case design and execution
-
-Bug reporting and tracking
-
-Quality standards and process improvement
-
-User experience and usability testing
-
-🔹 I'm passionate about quality, continuous learning, problem-solving, and improving digital products through structured testing 
-
-### 🛠️ Hard Skills | 💡 Soft Skills  
+🔗 LinkedIn: https://www.linkedin.com/in/brisabraga/
 
 | Hard Skills        | Soft Skills        |
 |-------------------|--------------------|
@@ -40,7 +28,4 @@ User experience and usability testing
 | Microsoft 365     | Multiculturalism   |
 | Jira              | Problem Solving    |
 
-📍 I share my professional journey in QA and technology on LinkedIn.
-Come be part of my network ⬇️
-
-🔗 LinkedIn: https://www.linkedin.com/in/brisabraga/
+ 
